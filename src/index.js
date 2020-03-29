@@ -1,7 +1,7 @@
 import React from "react"
 import ReactDOM from "react-dom"
 import "./index.css"
-import Example from "./example8"
+import Example from "./example9"
 
 ReactDOM.render(
     <Example />,
